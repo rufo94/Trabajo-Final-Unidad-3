@@ -1,0 +1,54 @@
+#buscador{
+  margin-bottom: 5vh;
+}
+
+#noti2{
+  margin-top: 10vh;
+  background-color: #F2F2F2;
+}
+
+#{
+}
+
+#slogan{
+margin-left: 16vw;
+}
+
+#titulo{
+  margin-left: 12vw;
+}
+
+h5{
+margin-top: 5vh;
+}
+
+#img{
+  width: 9vw;
+  margin: 1px;
+  border:1px solid black;
+}
+
+
+#mila{
+border: 1px solid gray;
+}
+
+#body{
+  margin-top: 5vh;
+}
+
+#columnaderecha{
+text-align: center;.
+padding: 10px;
+margin: 0vw;
+}
+
+#columnaizquierda{
+  border-right: 1px solid lightgray;
+  text-align: center;
+  margin-right: 0vw;
+}
+
+#botondemenu{
+  margin: 1px;
+}

@@ -1,0 +1,93 @@
+#header{
+  background: #FA8258;
+  height: 20vh;
+}
+
+#footer{
+  border-top: 1px solid black;
+  background-color:#FA8258;
+  height: 4vh;
+}
+
+#logo{
+  text-align: left ;
+  width: 8vw;
+  margin-bottom: 2vh;
+}
+
+#rs{
+  text-align: right;
+  margin-top: 13vh;
+  margin-right: 0.5vw;
+  height: 2vh;
+}
+
+#img{
+  width: 3vw;
+}
+
+#tw{
+  margin-left: 15vw;
+}
+
+#secnot{
+  margin: 1vw;
+}
+
+#bnav{
+  border: 1px solid black;
+}
+
+#bb{
+margin-top: 0.5vh;
+}
+
+#tupac{
+width: 18vw;
+margin-top: 6vw;
+border-radius: 10px;
+}
+
+#wiz{
+width: 18vw;
+margin-bottom: 4vw;
+border-radius: 10px;
+margin-top: 8vh;
+}
+
+{}
+
+#btn{
+  border: 0px solid #B45F04;
+  text-align: center;
+  background-color: #FACC2E;
+}
+
+#buscador{
+text-align: center;
+}
+
+#bo{
+  margin-right: 1vw;
+}
+
+#lupa{
+width: 2vw;
+margin-left: 0vw;
+margin-right: 1vw;
+
+}
+
+nav{
+  text-align: center;
+  background-color: #FACC2E;
+}
+
+#nav{
+  text-align: center;
+  background-color: #FACC2E;
+}
+
+p{
+  text-align: justify;
+}
